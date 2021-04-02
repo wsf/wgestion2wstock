@@ -1,0 +1,52 @@
+Date-Time : 2021-04-02 11:42:11,462 : Line No. : 823 - Starting new HTTPS connection (1): raw.githubusercontent.com:443
+Date-Time : 2021-04-02 11:42:11,999 : Line No. : 393 - https://raw.githubusercontent.com:443 "GET /wsf/wgestion2wstock/main/wgestion_wstock.txt HTTP/1.1" 200 116
+Date-Time : 2021-04-02 11:42:12,009 : Line No. : 44 - <Iniciando> 
+        - Linea inicio: 20
+Date-Time : 2021-04-02 11:42:12,090 : Line No. : 61 -   - Linea fin: 30
+Date-Time : 2021-04-02 11:43:06,711 : Line No. : 10 - fddsfasfds
+Date-Time : 2021-04-02 11:43:06,712 : Line No. : 11 - fddsfasfds
+Date-Time : 2021-04-02 11:43:06,712 : Line No. : 13 - fddsfasfds
+Date-Time : 2021-04-02 11:43:06,712 : Line No. : 15 - fddsfasfds
+Date-Time : 2021-04-02 11:43:06,712 : Line No. : 17 - fddsfasfds
+Date-Time : 2021-04-02 11:45:59,647 : Line No. : 823 - Starting new HTTPS connection (1): raw.githubusercontent.com:443
+Date-Time : 2021-04-02 11:46:00,041 : Line No. : 393 - https://raw.githubusercontent.com:443 "GET /wsf/wgestion2wstock/main/wgestion_wstock.txt HTTP/1.1" 200 116
+Date-Time : 2021-04-02 11:46:00,052 : Line No. : 44 - <Iniciando> 
+        - Linea inicio: 15
+Date-Time : 2021-04-02 11:46:00,053 : Line No. : 55 - update stock set stock = stock -  2 where id = 37166
+Date-Time : 2021-04-02 11:46:00,062 : Line No. : 55 - update stock set stock = stock -  2 where id = 37166
+Date-Time : 2021-04-02 11:46:00,070 : Line No. : 55 - update stock set stock = stock -  2 where id = 37166
+Date-Time : 2021-04-02 11:46:00,087 : Line No. : 55 - update stock set stock = stock -  2 where id = 37166
+Date-Time : 2021-04-02 11:46:00,096 : Line No. : 55 - update stock set stock = stock -  2 where id = 37166
+Date-Time : 2021-04-02 11:46:00,112 : Line No. : 55 - update stock set stock = stock -  2 where id = 37166
+Date-Time : 2021-04-02 11:46:00,121 : Line No. : 55 - update stock set stock = stock -  2 where id = 37166
+Date-Time : 2021-04-02 11:46:00,129 : Line No. : 55 - update stock set stock = stock -  2 where id = 37166
+Date-Time : 2021-04-02 11:46:00,138 : Line No. : 55 - update stock set stock = stock -  2 where id = 37166
+Date-Time : 2021-04-02 11:46:00,146 : Line No. : 55 - update stock set stock = stock -  2 where id = 37166
+Date-Time : 2021-04-02 11:46:00,155 : Line No. : 55 - update stock set stock = stock -  2 where id = 37166
+Date-Time : 2021-04-02 11:46:00,163 : Line No. : 55 - update stock set stock = stock -  2 where id = 37166
+Date-Time : 2021-04-02 11:46:00,171 : Line No. : 55 - update stock set stock = stock -  2 where id = 37166
+Date-Time : 2021-04-02 11:46:00,180 : Line No. : 55 - update stock set stock = stock -  2 where id = 37166
+Date-Time : 2021-04-02 11:46:00,188 : Line No. : 55 - update stock set stock = stock -  2 where id = 37166
+Date-Time : 2021-04-02 11:46:00,197 : Line No. : 61 -   - Linea fin: 30
+Date-Time : 2021-04-02 12:07:50,575 : Line No. : 823 - Starting new HTTPS connection (1): raw.githubusercontent.com:443
+Date-Time : 2021-04-02 12:07:51,424 : Line No. : 393 - https://raw.githubusercontent.com:443 "GET /wsf/wgestion2wstock/main/wgestion_wstock.txt HTTP/1.1" 200 116
+Date-Time : 2021-04-02 12:07:51,433 : Line No. : 50 - update stock set stock = stock -  2 where id = 37166
+Date-Time : 2021-04-02 12:07:51,450 : Line No. : 50 - update stock set stock = stock -  2 where id = 37166
+Date-Time : 2021-04-02 12:07:51,458 : Line No. : 50 - update stock set stock = stock -  2 where id = 37166
+Date-Time : 2021-04-02 12:07:51,466 : Line No. : 50 - update stock set stock = stock -  2 where id = 37166
+Date-Time : 2021-04-02 12:07:51,475 : Line No. : 50 - update stock set stock = stock -  2 where id = 37166
+Date-Time : 2021-04-02 12:08:23,953 : Line No. : 823 - Starting new HTTPS connection (1): raw.githubusercontent.com:443
+Date-Time : 2021-04-02 12:08:24,181 : Line No. : 393 - https://raw.githubusercontent.com:443 "GET /wsf/wgestion2wstock/main/wgestion_wstock.txt HTTP/1.1" 200 116
+Date-Time : 2021-04-02 12:08:24,190 : Line No. : 50 - update stock set stock = stock -  2 where id = 37166
+Date-Time : 2021-04-02 12:08:24,196 : Line No. : 50 - update stock set stock = stock -  2 where id = 37166
+Date-Time : 2021-04-02 12:08:24,204 : Line No. : 50 - update stock set stock = stock -  2 where id = 37166
+Date-Time : 2021-04-02 12:08:24,212 : Line No. : 50 - update stock set stock = stock -  2 where id = 37166
+Date-Time : 2021-04-02 12:08:24,221 : Line No. : 50 - update stock set stock = stock -  2 where id = 37166
+Date-Time : 2021-04-02 12:08:40,257 : Line No. : 823 - Starting new HTTPS connection (1): raw.githubusercontent.com:443
+Date-Time : 2021-04-02 12:08:40,514 : Line No. : 393 - https://raw.githubusercontent.com:443 "GET /wsf/wgestion2wstock/main/wgestion_wstock.txt HTTP/1.1" 200 116
+Date-Time : 2021-04-02 12:08:40,524 : Line No. : 50 - update stock set stock = stock -  2 where id = 37166
+Date-Time : 2021-04-02 12:08:40,541 : Line No. : 50 - update stock set stock = stock -  2 where id = 37166
+Date-Time : 2021-04-02 12:08:40,549 : Line No. : 50 - update stock set stock = stock -  2 where id = 37166
+Date-Time : 2021-04-02 12:08:40,557 : Line No. : 50 - update stock set stock = stock -  2 where id = 37166
+Date-Time : 2021-04-02 12:08:40,566 : Line No. : 50 - update stock set stock = stock -  2 where id = 37166
+Date-Time : 2021-04-02 12:08:40,574 : Line No. : 56 - **** Datos procesados del archivo <wgestion_wstock.txt>. Comienza en la linea: 25, termina en la linea: 30 
