@@ -66,12 +66,12 @@ def load_file():
                         sql = ll[3]
 
                         log.info(sql)
-                        
+
                 except Exception as e:
                         log.error(e)
 
 
-        open("last_reg.txt","w").write(str(i))
+        open("last_reg_test.txt","w").write(str(i))
 
         log.info("**** Datos procesados del archivo <wgestion_wstock.txt>. Comienza en la linea: %s, termina en la linea: %s " % (str(last_reg), str(i)) )
         
