@@ -8,7 +8,15 @@ import datetime
 log.basicConfig(format='Date-Time : %(asctime)s : Line No. : %(lineno)d - %(message)s', \
                     level = log.DEBUG, filename = "log.log")
 
-db = pymysql.connect(host="localhost", user="root", passwd="dalas.2009", db="wstockprodu")
+
+
+j = {}
+
+j = eval(open("config.txt","r").read())
+
+print(j)
+
+db = pymysql.connect(host=j["host"], user=j["user"], passwd=j["passwd"], db=j["db"])
 cur = db.cursor()
 
 
@@ -51,7 +59,7 @@ def load_file():
                         log.info(sql)
 
                         make_update(sql)
-                        
+
                 except Exception as e:
                         
                         # if an error occurs i register that 
