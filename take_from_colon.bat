@@ -16,12 +16,13 @@ mysqldump -u root -pdalas.2009  -h 192.168.1.50  --databases --routines --verbos
 copy bk\bk_wstockprodu-%date:~0,2%.sql bk_wstockprodu.sql
 
 
-#git pull
+
 
 echo Comienza el traspaso de información
 python app.py
 
 REM actualizar bk_wstockprodu.sqlen github
+git pull
 git add bk_wstockprodu.sql
 git commit -m "actualizando bk_wstockprodu.sql
 git push
