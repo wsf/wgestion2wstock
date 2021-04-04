@@ -65,8 +65,10 @@ def load_file():
 
                         log.info(sql)
 
-                        if j["debug"].upper() == "SI":
+                        if j["debug"].upper() == "NO":
                                 make_update(sql)
+                        else:
+                                print("Modo debug")
 
                 except Exception as e:
                         
