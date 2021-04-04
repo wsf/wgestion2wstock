@@ -44,12 +44,18 @@ def load_file():
                 if i<=last_reg:
                         continue
 
-                ll = eval(l)
-                sql = ll[3]
+                try: 
+                        ll = eval(l)
+                        sql = ll[3]
 
-                log.info(sql)
+                        log.info(sql)
 
-                make_update(sql)
+                        make_update(sql)
+                        
+                except Exception as e:
+                        
+                        # if an error occurs i register that 
+                        log.error(e)
 
         open("last_reg.txt","w").write(str(i))
 
