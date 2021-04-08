@@ -2,7 +2,7 @@
 
 ## Todo 
 
-1. Instalarl python en la máquina de Horacio
+1. Instalar python en la máquina de Horacio
 2. Poner las credenciales de conexi�n de la base de datos
 3. Hacer un bat para ejecuta el programa. 
 - primero que haga una copia de la base de datos.
