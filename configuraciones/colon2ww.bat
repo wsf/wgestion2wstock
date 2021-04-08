@@ -15,5 +15,5 @@ mysql -uroot -pdalas.2009 wstockprodu < wstockprodu.sql
 REM Subo los cambios de stock para que horacio lo pueda bajar.
 
 git add wgestion_wstock.txt
-git -m "subiendo actualización"
+git commit -m "subiendo actualización"
 git push
