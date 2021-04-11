@@ -1,7 +1,0 @@
-{
-    'host':"localhost",
-    'passwd':"dalas.2009",
-    'db':"wstockprodu",
-    'user':"root",
-    "debug":"SI"
-}
